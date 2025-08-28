@@ -6,7 +6,7 @@ Script de hardening básico para servidores Linux que automatiza tareas esencial
 - Deshabilita el login SSH de root y refuerza opciones seguras (idempotente).
 - Instala y configura Fail2ban con una jail para `sshd` (parámetros ajustables).
 
-> Este repo incluye **`hardening.py` y **`hardening.sh`** como implementación principal.
+> Este repo incluye `hardening.py` y `hardening.sh` como implementación principal.
 
 ---
 
